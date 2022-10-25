@@ -1,5 +1,5 @@
-1. Upgrade Box -> BoxV2
-2. Proxy contract pointing to Box
+- Upgrade Box -> BoxV2
+- Proxy contract pointing to Box
     - change to point to BoxV2
 
 1. Deploy a Proxy manually
